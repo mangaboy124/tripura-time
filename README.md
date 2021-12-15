@@ -1,2 +1,3 @@
-# tripura-time
-It's me boys
+
+#My first pull
+through watching youtube lecture
